@@ -1,7 +1,7 @@
 import 'package:climate_app/services/location.dart';
 import 'package:climate_app/services/networking.dart';
 
-const apikey = 'c8ec0625b4bf5ae0c50efa94b8403068';
+const apikey = '';
 
 class WeatherModel {
   String getWeatherIcon(int condition) {
